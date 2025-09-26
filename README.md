@@ -7,8 +7,8 @@ collected from:
 * [Our World In Data (OWID)](https://ourworldindata.org/)
 * [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
-EIA and OWID provides APIs to select and download data. Stats used for
-graphs is stored locally in [data/](data/).
+[EIA](EIA.md) and OWID provides APIs to select and download
+data. Stats used for graphs is stored locally in [data/](data/).
 
 ## Energy Consumption v.s GDP
 
